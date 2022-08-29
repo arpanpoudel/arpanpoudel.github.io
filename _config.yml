@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arpan Poudel's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Arpan Poudel"
-description              : &description "personal description"
+description              : &description "Arpan Poudel is a Ph.D. student in Computer Science under the supervision of Dr. Ukash Nakarmi at the University of Arkansas. He received his Bachelor's degree in Computer Engineering from Pashchimanchal Campus, Tribhuvan University, Nepal in 2019. He joined the University of Arkansas in the spring of 2022.  His research interests widely include Machine learning, Deep learning, Natural language processing and Computer vision. In the free time, he likes playing video games, cricket and cooking. "
 url                      : "https://arpanpoudel.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arpanpoudel/arpanpoudel.github.io"
