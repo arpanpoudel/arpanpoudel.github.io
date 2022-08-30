@@ -11,49 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor in Computer Engineering, Tribhuwan University, 2018.
+* Ph.D. in Computer Science, Univerisity of Arkansas, 2022-
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022 Aug - 2022 Dec: Teaching Assistant
+  * University of Arkansas
+  * Duties included: Grading and guiding for Software Engineering class
+  * Supervisor: Jim Strother
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2021 Dec - 2022 June: Research Assistant
+  * University of Arkansas
+  * Duties included: FPGA(DPU) programming for CNN 
+  * Supervisor: Miaoqing Huang
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2019 - 2021 : IT Engineer
+  * Government of Nepal
+  * Duties included: Data Analysis of Social Security Funds
