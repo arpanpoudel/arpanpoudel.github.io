@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my resume [here](files/ArpanPoudelResume.pdf)
+You can find my resume [here](ArpanPoudelResume.pdf)
 
 
 
