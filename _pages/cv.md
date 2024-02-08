@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-### You can find my resume {%[here] (files/ArpanPoudelResume.pdf)%}
+You can find my resume [here](files/ArpanPoudelResume.pdf)
 
 
 
