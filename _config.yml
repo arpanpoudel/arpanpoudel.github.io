@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Arpan Poudel"
-description              : &description "Arpan Poudel is a master's student in Computer Science under the supervision of Dr. Ukash Nakarmi at the University of Arkansas. He received his Bachelor's degree in Computer Engineering from Pashchimanchal Campus, Tribhuvan University, Nepal in 2019. He joined the University of Arkansas in the spring of 2022.  His research interests widely include Machine learning, Deep learning, Natural language processing and Computer vision. In the free time, he likes playing video games, cricket and cooking. "
+description              : &description "Arpan Poudel is a PhD. student in Computer Science under the supervision of Dr. Qinghua Li at the University of Arkansas. He received his Master's degree in Computer Science from University of Arkansas in 2024 and Bachelor's degree in Computer Engineering from Pashchimanchal Campus, Tribhuvan University, Nepal in 2019. He started his PhD at University of Arkansas from Spring 2025.  His research interests widely include Federated Learning, Large Language Models, and Medical Imaging. In the free time, he likes fishing, camping and cooking. "
 url                      : "https://arpanpoudel.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arpanpoudel/arpanpoudel.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Arpan Poudel"
   avatar           : "profile.png"
-  bio              : "Master's student at University of Arkansas "
+  bio              : "PhD student at University of Arkansas "
   location         : "Fayetteville, Arkansas"
   employer         :
   pubmed           : 

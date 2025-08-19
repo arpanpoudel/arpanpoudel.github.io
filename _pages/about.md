@@ -7,10 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am delighted to present myself: My name is Arpan Poudel, currently a diligent second-year Master of Science in Computer Science student at the University of Arkansas. With a solid foundation in computer engineering from Tribhuvan University, my academic and professional journey is fueled by a profound passion for computer vision, underpinned by my engagement in pioneering research within generative models, image reconstruction, and medical image processing.
+I am a Ph.D. student in Computer Science at the University of Arkansas under Dr. [Qinghua Li](https://csce.uark.edu/~qinghual/).  My work is in federated learning, large language models and medical imaging, with a focus on building reliable and privacy-preserving AI systems for healthcare.
 
-At the University of Arkansas as a Research Assistant has been marked by significant contributions to the field of lensless imaging, where I led a project that achieved a remarkable 1.35 times increase in image reconstruction accuracy. This endeavor not only honed my skills in sophisticated data analysis and machine learning but also allowed me to engineer a diffuser camera prototype, setting a new precedent in lensless imaging technology. Additionally, my role as a Teaching Assistant has enabled me to impart knowledge and foster enthusiasm among undergraduate students in computer science, further enriching my educational experience.
+## Research interests
+- Vision–language models
+- Generative models
+- Image reconstruction
+- Federated learning
 
-Outside the realm of academia and research, I enjoy diving into various hobbies that range from playing video games and cricket to indulging in fishing and exploring culinary arts. These activities not only serve as a source of relaxation and enjoyment but also inspire creativity and problem-solving skills in my professional work.
 
-Leveraging my comprehensive skill set, achievements, and interdisciplinary expertise, I am keen to pursue opportunities that allow me to contribute to and innovate within the fields of computer vision and medical imaging. My ambition is to apply the knowledge and experiences garnered through my academic projects and research towards advancing technology in practical, impactful ways.
+## Current and recent projects
+
+- **Federated vision–language modeling for chest X-rays.** I fine-tune `Qwen-VL` models with `LoRA` adapters and explore router/gating methods to choose adapters across clients without sharing data. I use structured report templates (e.g., *Findings* / *Impression*) to reduce hallucinations and improve clinical usefulness.
+
+- **MRI super-resolution.** I developed an unsupervised diffusion approach that enhances low-resolution MRI without paired training data. I also released the **SRMRI** dataset with matched low-/high-resolution scans to enable fair benchmarking and to study scan-time reduction via super-resolution.
+
+
+## Outside research
+I enjoy cricket, video games, fishing, and cooking.
+
+## Collaboration
+I am open to collaborations in computer vision and medical imaging—especially projects that connect rigorous methods with real clinical needs.
