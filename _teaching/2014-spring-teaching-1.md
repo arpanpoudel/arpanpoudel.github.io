@@ -2,7 +2,7 @@
 title: "CSCE 41303/51303 - Algorithms "
 collection: teaching
 type: "Course"
-venue: "University of Arkansas, Department"
+venue: "University of Arkansas, EECS Department"
 date: 2025-01-12
 location: "Fayetteville, Arkansas"
 ---
