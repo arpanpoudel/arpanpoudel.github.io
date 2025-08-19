@@ -3,7 +3,7 @@ title: "CSCE 4523 – Database Management Systems"
 collection: teaching
 type: "Course"
 venue: "University of Arkansas, Department"
-date: 2015-08-01
+date: 2024-01-12
 location: "Fayetteville, Arkansas"
 ---
 

@@ -3,7 +3,7 @@ title: "CSCE - 36103 - Operating Systems"
 collection: teaching
 type: "Course"
 venue: "University of Arkansas, Department"
-date: 2015-08-01
+date: 2024-08-01
 location: "Fayetteville, Arkansas"
 ---
 
