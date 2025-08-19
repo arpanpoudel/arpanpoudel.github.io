@@ -8,4 +8,4 @@ location: "Fayetteville, Arkansas"
 ---
 
 
-Assisted with labs, projects, grading, and infrastructure for an Operating Systems course, supporting ~120 students through office hours, reviews, and forum guidance.
+Assisted with labs, projects, grading, and infrastructure for an Operating Systems course, supporting ~120 students through office hours, reviews, and forum guidance. Supervisor: [Dr. Dale Thompson](https://netgeekdr.com/)

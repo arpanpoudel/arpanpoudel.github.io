@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "CSCE 41303/51303 - Algorithms "
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Workshop"
+venue: "University of Arkansas, Department"
+date: 2015-08-01
+location: "Fayetteville, Arkansas"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Supported an Algorithms course by leading recitations, designing problem sets and autograded labs, grading, and holding office hours for ~100 students.. Supervisor: [Dr. Thi Hoang Ngan Le](https://uark-aicv.github.io/team/ngan_le.html)
