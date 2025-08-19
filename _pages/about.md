@@ -27,4 +27,4 @@ I am a Ph.D. student in Computer Science at the University of Arkansas under Dr.
 I enjoy cricket, video games, fishing, and cooking.
 
 ## Collaboration
-I am open to collaborations in computer vision and medical imaging—especially projects that connect rigorous methods with real clinical needs.
+I am open to collaborations in computer vision and medical imaging—especially projects that connect rigorous methods with real clinical needs. email: <arpanpoudel@gmail.com>
